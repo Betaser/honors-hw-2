@@ -1,0 +1,12 @@
+Temperature _=start
+    int temperature=72
+end
+
+Color _2=start
+    string umbrellaColor="red"
+end
+
+Umbrella myUmbrella=start
+    Temperature maxTemp=_
+    Color color=_2
+end

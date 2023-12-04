@@ -1,0 +1,4 @@
+Vector v=start
+    int x=10
+    int y=1
+end
